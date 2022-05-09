@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-Ara/nodeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-Ara/nodeApp/issues"
+  },
+  "homepage": "https://github.com/Mr-Ara/nodeApp#readme",
+  "dependencies": {
+    "jalali-moment": "^3.3.11"
+  }
+}
